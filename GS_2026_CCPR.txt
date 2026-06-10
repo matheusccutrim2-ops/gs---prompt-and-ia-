@@ -6,6 +6,6 @@ Nome completo e RM de todos os integrantes:
 
 Modalidade: Individual
 
-Link do repositório GitHub: https://github.com/SEU_USUARIO/mission-control-ai
+Link do repositório GitHub: https://github.com/matheusccutrim2-ops/gs---prompt-and-ia-
 
 Link do vídeo de demonstração: https://youtu.be/sObImwCZqfw?si=0VFpbppeVJgwXmux 
