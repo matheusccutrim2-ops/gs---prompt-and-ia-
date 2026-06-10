@@ -205,21 +205,6 @@ Simule multicrise
 
 ---
 
-# 📷 Demonstração
-
-## Status normal da missão
-
-![Status normal da missão](assets/screenshot_normal.png)
-
-Nesta demonstração, a interface exibe a telemetria simulada da missão com os parâmetros dentro da faixa esperada. O sistema apresenta temperatura do sensor, energia disponível, buffer de imagens, sinal de comunicação, precisão de geolocalização e focos térmicos detectados.
-
-## Cenário crítico analisado pela IA
-
-![Alerta crítico com análise da IA](assets/screenshot_alerta.png)
-
-Nesta captura, o sistema demonstra um cenário crítico, como incêndio ou multicrise. O código Python identifica os parâmetros fora do normal, gera alertas automáticos e envia os dados para a IA, que produz uma análise com diagnóstico técnico, severidade, impacto terrestre e ações recomendadas.
-
----
 
 # 📝 System Prompt
 
