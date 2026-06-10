@@ -1,0 +1,9 @@
+{
+  "normal": "Todos os parâmetros dentro da faixa esperada.",
+  "temperatura": "Superaquecimento do sensor térmico.",
+  "energia": "Energia disponível abaixo do limite seguro.",
+  "comunicacao": "Perda parcial de comunicação e buffer de imagens elevado.",
+  "incendio": "Grande quantidade de focos térmicos detectados.",
+  "geolocalizacao": "Precisão geográfica insuficiente para análise ambiental.",
+  "multicrise": "Múltiplas anomalias simultâneas."
+}

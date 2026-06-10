@@ -1,0 +1,6 @@
+Substitua esta pasta por prints reais antes da entrega final.
+
+Obrigatório no GitHub:
+- screenshot_normal.png: print do /status ou cenário normal.
+- screenshot_alerta.png: print da IA analisando um cenário crítico, como incêndio ou multicrise.
+
